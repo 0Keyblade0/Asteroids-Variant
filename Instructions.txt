@@ -1,0 +1,6 @@
+Instructions:
+
+Destroy the asteroids and reach the goals. If the resource goal is reached before the score goal, the user fails the game. If the user succeeds, a new phase of the game is unlocked that is endless.
+
+Requires: Controller
+Note: The user is capable of restarting the game at any point if they press the right button

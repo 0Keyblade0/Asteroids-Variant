@@ -1,0 +1,14 @@
+PreProduction: I want to create a game similar to the Ball Blast Cannon game on phones. Literally a recreation
+
+Production:
+Start Date: 11/12/2023
+Start Time: 4:41 PM
+
+11/12/2023 at 4:41 PM: The decision was made to make a game similar to Ball Blast Cannon Blitz Mania
+11/12/2023 at 4:45 PM: Started working on the player implementation
+11/12/2023 at 6:53 PM: Started working on the rock implementation
+- 11/12/2023 at 7:04 PM: Started outlining the types of special rocks that will exist in the game and their rarities
+11/13/2023 at 11:45 PM: Finished game 
+
+PostPorduction:
+I originally wanted to create Ball Blast Cannon. I ended up making a variant of the asteroids game. Implementing the physical game objects player, rocks, and lasers went well. Implementation of UI elements not so much. I wish I knew how much my ideas would change throughout the process. Im glad I know that now so I don't spend as much time thinking about what I want to do.
