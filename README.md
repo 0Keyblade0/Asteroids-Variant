@@ -17,31 +17,28 @@ A modern take on the classic Asteroids arcade game, developed in C++ using SDL2.
 - C++ compiler supporting C++11 or later
 - [SDL2](https://www.libsdl.org/download-2.0.php) development libraries
 
-### Steps
+## 🎮 How to Play
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/0Keyblade0/Asteroids-Variant.git
-   cd Asteroids-Variant
-   ```
+1. **Download the Repository**
+   - Click the green `Code` button and select `Download ZIP`, or clone it using:
+     ```bash
+     git clone https://github.com/0Keyblade0/Asteroids-Variant.git
+     ```
 
-2. Build the project:
-   ```bash
-   g++ -std=c++11 -o asteroids main.cpp -lSDL2 -lSDL2_image -lSDL2_mixer
-   ```
+2. **Open in Unity**
+   - Launch the Unity Hub.
+   - Click `Open` and select the folder where you downloaded the project.
 
-3. Run the game:
-   ```bash
-   ./asteroids
-   ```
+3. **Run the Game**
+   - Once the project loads, open the scene
+   - Click the ▶️ *Play* button at the top of the Unity Editor to start playing!
+
 
 ## 🎮 Controls
 
-- **Left Arrow / A**: Rotate ship left
-- **Right Arrow / D**: Rotate ship right
-- **Up Arrow / W**: Thrust forward
+- **Left Arrow / A**: Move left
+- **Right Arrow / D**: Move right
 - **Spacebar**: Fire weapon
-- **Esc**: Exit the game
 
 ## 📁 Project Structure
 
@@ -52,7 +49,7 @@ A modern take on the classic Asteroids arcade game, developed in C++ using SDL2.
 
 ## 🌌 Gameplay Mechanics
 
-Navigate your spaceship through an asteroid field, avoiding collisions and destroying asteroids to earn points. As you progress, the game increases in difficulty with more asteroids appearing. The objective is to achieve the highest score possible before losing all your lives.
+
 
 ## 🧪 Testing
 
